@@ -315,5 +315,14 @@ This POC demonstrates:
 	•	React integration with CMS platforms
 	•	CRUD workflows
 	•	Permission systems
+<img width="915" height="438" alt="Screenshot 2026-05-16 004420" src="https://github.com/user-attachments/assets/8a4c6037-381c-4647-83b6-1609847959c7" />
+<img width="947" height="398" alt="Screenshot 2026-05-16 004354" src="https://github.com/user-attachments/assets/cc43bf11-de64-4353-ae26-e11ecc7e81c7" />
+<img width="685" height="191" alt="Screenshot 2026-05-15 232611" src="https://github.com/user-attachments/assets/c89f83f9-14c2-4155-88a6-c6753182e216" />
+<img width="944" height="451" alt="Screenshot 2026-05-15 232705" src="https://github.com/user-attachments/assets/8660a00c-7e1a-4860-8683-1078c44353aa" />
+<img width="955" height="230" alt="{627DD050-2784-4E8A-9947-DCFBA780C5DB}" src="https://github.com/user-attachments/assets/fc174c26-0cca-428d-8643-43fe6af331c5" />
+
+
+
+
 
 
