@@ -50,6 +50,9 @@ project-root/
     ├── public/
     ├── package.json
     └── vite.config.ts
+	├── tsconfig.json        
+    └── tailwind.config.ts   
+
 
 
 ⸻
