@@ -1,0 +1,24 @@
+version: "3"
+
+services:
+  directus:
+    image: directus/directus:latest
+    ports:
+      - "8055:8055"
+
+    environment:
+      SECRET: "my-super-secret-key"
+
+      ADMIN_EMAIL: "admin@innovera.com"
+      ADMIN_PASSWORD: "innovera123"
+
+      DB_CLIENT: "sqlite3"
+      DB_FILENAME: "/directus/database/data.db"
+      
+      CORS_ENABLED: "true"
+      CORS_ORIGIN: "http://localhost:5173"
+    volumes:
+      - ./database:/directus/database
+      - ./uploads:/directus/uploads
+
+   
